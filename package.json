@@ -55,7 +55,7 @@
     "cache-manager": "^5.7.6",
     "cheerio": "^1.0.0-rc.10",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "https://github.com/NaufalYupra/libsignal-node/archive/HEAD.tar.gz",
+    "libsignal": "https://github.com/andeshanafi60-cmd/ndes-libsignal/archive/HEAD.tar.gz",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
